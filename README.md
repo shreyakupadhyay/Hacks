@@ -1,2 +1,2 @@
 # Hackerranksolutions
-Solutions of Hackerrank problems
+Solutions of Hackerrank problems of various domains using C as programming language.
